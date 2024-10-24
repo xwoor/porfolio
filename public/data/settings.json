@@ -4,7 +4,7 @@
     "fullScreenButtonEnabled": true,
 
     "preloader": {
-        "enabled": true,
+        "enabled": false,
         "title": "<b>Portfolio</b>",
         "subtitle": "Mario Osorio"
     },
@@ -16,10 +16,8 @@
         "profilePictureUrl": "images/pictures/Mario-Osorio.png",
 
         "locales": {
-            "en": {"role": "Web Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": " Web Developer | SEO Consultant"},
+            "es": {"role": " Desarrollador Web | Consultor SEO"}
         }
     },
 
